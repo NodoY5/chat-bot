@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "server.js",
+  "author": "CosmosX",
   "scripts": {
     "start": "node server.js"
   },
@@ -15,7 +16,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/NodoY5/chat-bot.git"
   },
   "license": "MIT",
   "keywords": [
